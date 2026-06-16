@@ -68,7 +68,7 @@ A variety of chart types were used to present insights effectively:
 ### 📌 Health Dashboard Insights
 - Visualised **life expectancy trends across countries**
 - Analysed relationships between **population, BMI, and life expectancy**
-- Highlighted global health disparities for decision-making use cases 【1-a6471c】
+- Highlighted global health disparities for decision-making use cases 
 
 ---
 
@@ -133,7 +133,4 @@ A variety of chart types were used to present insights effectively:
 
 ---
 
----
 
-## 📎 Project Context
-Completed during **Week 2 (Tableau & Power BI)** of the Data Technician Bootcamp, focusing on creating interactive dashboards and analysing real-world datasets.
